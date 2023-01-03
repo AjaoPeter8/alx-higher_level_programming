@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-print("""The Zen of Python, by by TimPeters\n
+print("""The Zen of Python, by by TimPeters
 Beautiful is better than ugly.
 Explicit is better than implicit.
 Simple is better than complex.
