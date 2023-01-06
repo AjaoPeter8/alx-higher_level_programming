@@ -2,5 +2,4 @@
 from add_0 import add
 a = 1
 b = 2
-Sum = add(a, b)
-print(f"{a} + {b} = {Sum}")
+print(f"{a} + {b} = {add(a, b)}")
